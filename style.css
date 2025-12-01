@@ -1,0 +1,21 @@
+h1{
+   color:#48D1CC;
+   text-align:center;
+   }
+h2{
+   color:#b0E0E6;
+   text-align:center;
+   }
+p.note{
+   border:thin gray solid;
+   margin:1.5em 6em;
+   padding:0.5em;
+   background-color:#FFFF99;
+   }
+ol{
+   color:#008b8b;
+   }
+p.memo{
+   color:purple;
+   font-weight:bold;
+   }
