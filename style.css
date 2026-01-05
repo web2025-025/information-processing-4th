@@ -3,18 +3,18 @@
   height: 90px;
       max-width: 960px;
      margin-top: 0px;
-     margin-right: 32px;
+     margin-right: auto;
      margin-bottom: 0px;
-     margin-left: 32px;
+     margin-left: auto;
 
 }
 body{
     background-color: #f5f5f5;
     max-width: 960px;
      margin-top: 0px;
-     margin-right: 32px;
+     margin-right: auto;
      margin-bottom: 0px;
-     margin-left: 32px;
+     margin-left: auto;
 
 }
 h1{
