@@ -17,7 +17,6 @@ body{
      margin-left: auto;
 
 }
-
 h1{
   text-align: center;
    color: #1a5490;
@@ -32,9 +31,16 @@ nav{
 }
 h2{
    color: #1a5490;
-
+   background: linear-gradient(to right, #e3f2fd 0%, #f4f7fb 60%);
 }
 
 h3{
    color: #1f6dc0;
+}
+p.note{
+    border:thin gray solid; 
+    margin:1em 4em; 
+    padding:0.5em;
+    font-size:11pt;    
+    box-shadow: 0 3px 8px rgba(15, 23, 42, 0.08);
 }
