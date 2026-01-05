@@ -37,10 +37,15 @@ h2{
 h3{
    color: #1f6dc0;
 }
+table{
+ margin: 1em 4em;
+padding: 0.5me;
+}
+
 p.note{
-    border:thin gray solid; 
-    margin:1em 4em; 
-    padding:0.5em;
-    font-size:11pt;    
+    border: thin gray solid; 
+    margin: 1em 4em; 
+    padding: 0.5em;
+    font-size: 11pt;    
     box-shadow: 0 3px 8px rgba(15, 23, 42, 0.08);
 }
